@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/daichi1002/typescript-training/issues"
   },
-  "homepage": "https://github.com/daichi1002/typescript-training#readme"
+  "homepage": "https://github.com/daichi1002/typescript-training#readme",
+  "devDependencies": {
+    "typescript": "^3.7.5"
+  }
 }
