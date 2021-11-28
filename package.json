@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/daichi1002/typescript-training#readme",
   "devDependencies": {
+    "ts-node": "^10.4.0",
     "typescript": "^3.7.5"
   }
 }
