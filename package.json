@@ -19,9 +19,9 @@
   },
   "homepage": "https://github.com/daichi1002/typescript-training#readme",
   "devDependencies": {
-    "ts-node": "^10.4.0",
+    "ts-node": "^10.9.1",
     "ts-node-dev": "^1.1.8",
-    "typescript": "^3.7.5"
+    "typescript": "^3.9.10"
   },
   "dependencies": {
     "axios": "^0.19.2"
